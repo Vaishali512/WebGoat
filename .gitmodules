@@ -1,0 +1,6 @@
+[submodule "WebGoat"]
+	path = WebGoat
+	url = https://github.com/Vaishali512/WebGoat
+[submodule "MyRepoSubmodule"]
+	path = MyRepoSubmodule
+	url = https://github.com/Vaishali512/WebGoat
